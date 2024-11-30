@@ -1,0 +1,11 @@
+[book]
+authors = ["LGROW101"]  
+language = "th"
+multilingual = false
+src = "src"
+title = "kubernetes-101"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/LGROW101/kubernetes-101"
